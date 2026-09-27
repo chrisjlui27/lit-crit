@@ -25,9 +25,32 @@ Sources named on the reading list:
 - pulitzer.org/prize-winners-by-category/218 (Drama)
 - nobelprize.org/prizes/lists/all-nobel-prizes-in-literature/
 
-Save them here as `nobel.csv`, `pulitzer-fiction.csv`, `pulitzer-poetry.csv`,
-`pulitzer-drama.csv` with columns `year,winner,work,note`. Do not build
-these lists from memory.
+## The list files
+
+Built from pages saved in September 2026 (`resources/pulitzer.org-*.html`,
+`resources/nobelprize.org-*.html`). Columns are stable so the files open
+in Sheets.
+
+| File | Coverage from the saved page | Filled from memory (`[verify]` in the note column) |
+|---|---|---|
+| `pulitzer-drama.csv` | 1918-2026, complete | none |
+| `pulitzer-poetry.csv` | 1918-2026, complete | none |
+| `pulitzer-fiction.csv` | 1948-2026 | 1918-1947 (30 rows; the Invitational A window) |
+| `nobel.csv` | 2020-2025 with citations | 1901-2019 (119 rows, no citations) |
+
+Years with no award are rows with winner "No award"; where the saved
+page simply skipped the year the note says so.
+
+To replace the memory rows with sourced ones: open the Fiction page and
+the Nobel list page, scroll until the earliest year is showing (both
+pages load older years as you scroll), save the page again, and re-run
+the parse. Until then, spot-check any memory row before it goes on a
+quiz. The 2026 Nobel laureate is announced in October 2026 and is in
+scope at State; add the row then.
+
+Nobel items on the tests often quote the citation ("for the power,
+honesty and deep-felt emotions of his dramatic works"). The citations for
+2020-2025 are in the file; the rest are on nobelprize.org.
 
 ## Prize item styles (from the 2026 Invitational A test)
 

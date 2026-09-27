@@ -26,11 +26,11 @@ no application code.
 | `contest/format.md` | Exam structure, scoring, essay rules, and strategy (verified against the 2026 Inv A test) |
 | `reading-list/` | This year's list, prize-list windows by meet, and a notes file per work |
 | `terms/` | Every tested Part 1 term since 2009 as CSV, the frequency tiers, and the glossary to fill |
-| `history/` | Literary-history periods and the Nobel / Pulitzer track with per-meet year windows |
+| `history/` | Literary-history periods, the Nobel and Pulitzer winner CSVs, and per-meet year windows |
 | `practice/` | Test template, test logs, error logs, score tracker |
 | `essay/` | Tie-breaker essay rubric (UIL's criteria), prompts, Bradstreet prompts |
 | `lessons/` | Ten-minute versions of UIL's sample lessons (close reading, devices, meter, sonnets) |
-| `resources/` | Official UIL PDFs: 2026-27 reading list and Bradstreet addendum, 2026 Invitational A test with key, master list of tested terms, sample lessons |
+| `resources/` | Official UIL PDFs (2026-27 reading list and Bradstreet addendum, 2026 Invitational A test with key, master list of tested terms, sample lessons) and saved pulitzer.org / nobelprize.org pages the prize CSVs were parsed from |
 | `team/` | Goal sheet by student code (no real student data in git) |
 | `weekly/` | Agenda template for the Mon-Thu rotation and dated agendas |
 
