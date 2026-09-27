@@ -62,41 +62,43 @@ What ten minutes cannot hold, and where it goes instead:
   out loud on day one: the essay is required or you are disqualified, and
   Parts 2 and 3 are 70 of the 100 points.
 
-## Phase 1: Read and build (Oct 12 to Nov 20)
+## Phase 1: Read and build (Oct 5 to Nov 19)
 
-Reading assignments by Tuesday check:
+The full week-by-week version through Christmas, with the terms batch,
+Wednesday topic, and Thursday poem for every week, is
+`season/fall-2026-week-by-week.md`. Reading due by Tuesday check:
 
 | Week of | Reading due |
 |---|---|
-| Oct 12 | "The Ambitious Guest", "Dr. Heidegger's Experiment" |
-| Oct 19 | "The Birthmark", "The Celestial Railroad" |
-| Oct 26 | "The Artist of the Beautiful", "Earth's Holocaust" |
-| Nov 2 | *Lost in Yonkers* Act One |
-| Nov 9 | *Lost in Yonkers* Act Two |
-| Nov 16 | Bradstreet: Prologue, Author to Her Book, To My Dear and Loving Husband, Letter to Her Husband |
+| Oct 5 | "The Ambitious Guest" |
+| Oct 12 | "Dr. Heidegger's Experiment" |
+| Oct 19 | "The Birthmark" |
+| Oct 26 | "The Celestial Railroad" |
+| Nov 2 | "The Artist of the Beautiful" |
+| Nov 9 | "Earth's Holocaust" |
+| Nov 16 | *Lost in Yonkers* Act One |
 
-Terms: Tier 1 in batches of about 18 a week (Mondays), twelve batches,
-finishing by mid-January. Start with the top of `terms/most-tested-terms.md`.
-
-History (Wednesdays): Colonial, Revolutionary and Early National, American
-Romantic (Hawthorne and Bradstreet's own periods first), then Pulitzer
-Fiction 1918-1940 and Drama 1918-1938, the Invitational A windows.
+Terms: Tier 1 in eleven family batches (Mondays), finishing before
+Christmas break. History (Wednesdays): American periods first (Bradstreet's
+and Hawthorne's own), then the Invitational A prize windows (Fiction
+1918-1940, Drama 1918-1938, Poetry 1922-1942), then English periods.
 
 ## Phase 2: Deepen and time (Nov 30 to Invitational A)
 
 | Week of | Reading due |
 |---|---|
-| Nov 30 | Bradstreet: Flesh and Spirit, Vanity of All Worldly Things, Before the Birth, In Reference to her Children |
-| Dec 7 | Bradstreet: Queen Elizabeth, To Her Father, By Night, For Deliverance from a Fever |
-| Dec 14 | Meditations 1-40 |
-| Jan 4 | Meditations 41-77; second pass on all Hawthorne group 1 |
-| Jan 11 | second pass on *Lost in Yonkers* and all poems |
+| Nov 30 | *Lost in Yonkers* Act Two |
+| Dec 7 | Bradstreet: Prologue, Author to Her Book, To My Dear and Loving Husband, Letter to Her Husband |
+| Dec 14 | Bradstreet: Before the Birth, In Reference to her Children, By Night, For Deliverance from a Fever |
+| Christmas break | Bradstreet: Flesh and Spirit, Vanity of All Worldly Things, Queen Elizabeth, To Her Father; Meditations 1-77; second pass on Hawthorne group 1 |
+| Jan 4 | second pass on *Lost in Yonkers* and all poems |
 
-- First full-length timed test the first week of December, then every two
-  weeks. Use prior-year tests (UIL store, Hexco) for Parts 1 and 3; use
-  `/practice-test` for Part 2 sets on this year's list.
-- Essay every two weeks as homework.
-- Wednesdays move to Pulitzer Poetry 1922-1942 and the Nobel list by decade.
+- First full-length timed test the week of Nov 30, second the week of
+  Dec 14, then every two weeks. Use prior-year tests (UIL store, Hexco) for
+  Parts 1 and 3; use `/practice-test` for Part 2 sets on this year's list.
+- Essay every two weeks as homework, starting with the 2026 Invitational A
+  prompt, then the Bradstreet prompts.
+- Wednesdays move to the Invitational B prize windows after break.
 - Invitational A: treat as a real diagnostic. Debrief the Monday after.
 
 ## Phase 3: Sharpen (Invitational B to District, Apr 2)
