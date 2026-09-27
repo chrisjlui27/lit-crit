@@ -1,23 +1,22 @@
 # Week of YYYY-MM-DD
 
 Phase: 0 / 1 / 2 / 3 / 4
-Meeting length: 45 min
+Format: four 10-minute q-time sessions, Monday-Thursday
 
-| Min | Block | Detail |
-|---|---|---|
-| 0-5 | Terms quiz | last week's batch, 10 items, self-scored |
-| 5-15 | Reading check | assigned chunk: 5 items; discuss the two most missed |
-| 15-25 | New terms | introduce next batch; 5 example lines from the reading list works |
-| 25-35 | History or prize lists | this week's period or decade |
-| 35-45 | Unseen passage | one poem, 5 Part-3 style items, timed 8 minutes |
+| Day | Block | Content this week | Materials |
+|---|---|---|---|
+| Mon | Terms | quiz batch __ (8 items); introduce batch __ | `terms/most-tested-terms.md` |
+| Tue | Reading list | 5-item check on: __ | `/practice-test` set |
+| Wed | History / prizes | period or decade: __ | `history/` |
+| Thu | Unseen passage | poem/paragraph: __ ; 4 items, 6 min | `/practice-test` Part 3 |
 
-## Assignments for next week
+## Due outside q-time
 
-- Read:
-- Terms batch:
-- History:
-- Timed test (if scheduled):
+- Reading for next Tuesday:
+- Essay prompt (if due this week):
+- Timed test (date, place, which test):
 
-## Notes from this meeting
+## Notes from this week
 
--
+- Most-missed items:
+- Who needs a nudge on reading:

@@ -1,43 +1,46 @@
 # Literary terms track (Part 1)
 
-The UIL glossary is derived from Harmon, *A Handbook to Literature*. Get the
-current glossary from the UIL Literary Criticism Handbook and split it into
-weekly batches here. Do not rely on a memorized list; the glossary changes
-a little from year to year and items are worded from the handbook's
-definitions.
+Authority: *A Handbook to Literature*, 12th ed., Harmon. Items are worded
+from its definitions and the key cites its page numbers.
 
-## How to build the batches
+## Files
 
-1. Copy the glossary into `terms/glossary.csv` with columns
-   `term,definition,example,batch`.
-2. Assign batches of 25-35 terms alphabetically (A, B, ..., L). Twelve
-   batches covers the glossary by winter break at one batch a week.
-3. Each week, `weekly/` agendas quiz last week's batch and introduce the
-   next one.
+- `tested-terms-2009-2026.csv`: every Part 1 term item from 2009 through
+  the 2026 State meet (3,646 rows): season, meet, correct answer, and the
+  four distractors. Parsed from UIL's master list in `resources/`.
+- `most-tested-terms.md`: frequency tiers built from that CSV. The 221
+  terms tested five or more times cover about 68% of all items; adding the
+  138 tested three or four times covers about 81%.
+- `glossary.csv`: the full Harmon-based glossary, to be filled in with
+  `term,definition,example,batch` as the season goes. Start empty.
+
+## Batching for Monday q-time
+
+About 18 terms a week, one Monday block each, twelve batches to cover
+Tier 1 by mid-January:
+
+1. Batches 1-12: Tier 1 in frequency order (top of `most-tested-terms.md`),
+   but pull each term's family in with it (all the rhyme types together,
+   all the sonnet types together, all the feet together).
+2. Batches 13-20 (Jan-Mar): Tier 2, then Tier 3.
+3. From March: error-log terms only.
+
+Each batch handout: term, Harmon's definition in one sentence, one example
+line (from Bradstreet or Hawthorne when possible, so it does double duty).
 
 ## Item styles seen in Part 1
 
-- Definition to term: "The repetition of initial consonant sounds is..."
-- Term to example: "Which of the following lines contains a caesura?"
-- Example to term: a quoted line, "The device at work here is..."
-- Distinctions: metonymy vs. synecdoche, blank verse vs. free verse,
-  simile vs. metaphor vs. conceit, satire vs. parody vs. burlesque.
+- Definition to term: the most common. Harmon's wording, sometimes with
+  his examples ("goodest for best, hern for hers").
+- NOT items: "Not a form of poetry considered to be a pattern poem is..."
+  Four options belong to the family; one does not.
+- Distinctions within a family: metonymy vs. synecdoche, feminine vs.
+  masculine vs. compound rhyme, Italian vs. Shakespearean vs. Spenserian
+  sonnet, Edwardian vs. Georgian vs. Victorian.
 
-## High-frequency clusters to drill first
+## The families that recur
 
-- Meter and scansion: iamb, trochee, anapest, dactyl, spondee, pyrrhic;
-  monometer through octameter; blank verse; heroic couplet; caesura;
-  enjambment; end-stopped.
-- Stanza and fixed forms: couplet, tercet, quatrain, sestet, octave;
-  Petrarchan and Shakespearean sonnet; villanelle; sestina; ballad stanza;
-  Spenserian stanza; ottava rima; rhyme royal; terza rima.
-- Sound: alliteration, assonance, consonance, onomatopoeia, internal
-  rhyme, slant rhyme, eye rhyme, masculine and feminine rhyme.
-- Figures: metaphor, simile, personification, apostrophe, metonymy,
-  synecdoche, hyperbole, litotes, oxymoron, paradox, conceit, irony (verbal,
-  dramatic, situational), synesthesia, zeugma, chiasmus.
-- Narrative: point of view types, unreliable narrator, in medias res,
-  frame story, epistolary, bildungsroman, picaresque, stream of
-  consciousness, foreshadowing, deus ex machina.
-- Drama: soliloquy, aside, chorus, hamartia, catharsis, anagnorisis,
-  peripeteia, comedy of manners, tragicomedy, unities.
+Meter and scansion; stanza and fixed forms; rhyme types; sound devices;
+figures of speech; repetition schemes; narrative terms; drama terms; period
+and group names; word-error terms; classical sets. The full lists are at
+the bottom of `most-tested-terms.md`.
